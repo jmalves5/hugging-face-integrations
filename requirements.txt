@@ -1,0 +1,5 @@
+transformers
+torch
+tensorrt
+opencv-python
+ultralytics
